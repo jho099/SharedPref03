@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPref03</string>
+    <string name="topLeft">Rick</string>
+    <string name="topRight">Morty</string>
+    <string name="botLeft">Beth</string>
+    <string name="botRight">Summer</string>
+</resources>
